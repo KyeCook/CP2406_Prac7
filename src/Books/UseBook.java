@@ -13,8 +13,5 @@ public class UseBook {
 
         System.out.println("Non-Fiction called " + '"' + book2.getTitle() + '"' + ", and costs $" + book2.getPrice());
 
-//        public static void display(Book book)
-//    {
-//     System.out.println("This book is ");
     }
 }
